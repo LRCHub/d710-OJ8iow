@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "この地球の続きを",
+  "base_artist": "KOBUKURO",
+  "createdAt": "2025-12-05T15:19:33.148508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "この地球の続きを",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/01_この地球の続きを_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "この地球の続きを",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_01_この地球の続きを_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "この地球の続きを",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_02_この地球の続きを_コブクロ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "この地球の続きを",
+      "artist": "コブクロ",
+      "has_synced": false,
+      "path": "select/pl_03_この地球の続きを_コブクロ.txt"
+    }
+  ]
+}
